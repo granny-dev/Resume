@@ -1,0 +1,96 @@
+body{
+    position: absolute;
+
+
+background-color:lightgrey;
+
+font-family: 'Montserrat', sans-serif;
+font-size:medium;
+color:darkblue;
+}
+.wrapper{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1100px;
+    height: 1400px;
+    padding: 40px;
+    margin:40px;
+    background:aliceblue;
+}
+h1{
+    font-size: 40px;
+}
+h3{
+    font-size: 20px;
+}
+aside{
+    position: absolute;
+width: 350px;
+height: 1480px;
+left: 40px;
+top: 40px;
+
+background-color:lavender;
+
+}
+.contacts{
+    position: absolute;
+width: 300px;
+height: 50px;
+left: 40px;
+top: 500px;
+
+}
+.techSkills{
+    position: absolute;
+width: 300px;
+height: 200px;
+left: 40px;
+top: 650px;
+
+}
+.softSkills{
+    position: absolute;
+width: 300px;
+height: 200px;
+left: 40px;
+top: 900px;
+}
+.header{
+    position: absolute;
+width: 600px;
+height: 206px;
+left: 500px;
+top: 70px;
+
+}
+.projects{
+    position: absolute;
+width: 600px;
+height: 100px;
+left: 500px;
+top: 330px;
+
+}
+a{
+    color: blue;
+}
+.expirience{
+    position: absolute;
+width: 600px;
+height: 150px;
+left: 500px;
+top: 500px;
+
+}
+h5{
+    color: blueviolet;
+}
+.education{
+    position: absolute;
+width: 600px;
+height: 114px;
+left: 500px;
+top: 1300px;
+
+}
